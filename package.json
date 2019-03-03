@@ -1,0 +1,24 @@
+{
+  "name": "confluence-cloud",
+  "version": "0.0.1",
+  "description": "confluence-cloud",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "csv-writer": "^1.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirobeem/confluence-cloud.git"
+  },
+  "author": "pirobeem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pirobeem/confluence-cloud/issues"
+  },
+  "homepage": "https://github.com/pirobeem/confluence-cloud#readme"
+}
