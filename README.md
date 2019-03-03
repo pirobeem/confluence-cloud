@@ -7,4 +7,4 @@ Set 3 config parameters to config.json.
 # usage
 * npm install
 * node src/contentsCountByUser.js
-* output output/contentsCountByUser.csv
+* check output/contentsCountByUser.csv
